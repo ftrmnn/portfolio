@@ -186,11 +186,10 @@ header .navbar ul li a:hover {
 
   .home h1 {
     font-size: 3rem;
-    line-height: 0;
   }
 
   .home h2 {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 
   .home h3 {
